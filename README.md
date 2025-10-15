@@ -186,10 +186,10 @@ This project demonstrates proficiency in:
 
 ## 📞 **Contact & Collaboration**
 
-**Author**: [Your Name]  
-**Email**: [your.email@domain.com]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**GitHub**: [Your GitHub Profile]
+**Author**: Gabriel (Hoang) Nguyen 
+**Email**: gabrielnguyen2603@gmail.com
+**LinkedIn**:
+**GitHub**: 
 
 ---
 
@@ -211,10 +211,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📚 **Further Reading**
 
 - [Modern Portfolio Theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
-- [Quantitative Portfolio Management](https://www.investopedia.com/articles/financial-theory/11/quantitative-portfolio-management.asp)
-- [Risk Management in Finance](https://www.cfainstitute.org/en/membership/professional-development/refresher-readings/risk-management)
-- [Python for Finance](https://pythonforfinance.net/)
+
 
 ---
 
 *This project represents a comprehensive application of quantitative finance principles to real-world portfolio management, suitable for both educational and professional purposes.*
+
