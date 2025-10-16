@@ -1,6 +1,6 @@
 # 📈 Australian Stock Portfolio Optimization Analysis
 
-> **Professional Financial Analysis & Quantitative Portfolio Management**
+> **Financial Analysis & Quantitative Portfolio Management**
 
 A comprehensive quantitative analysis of Australian stock markets using modern portfolio theory, risk management techniques, and advanced statistical methods to optimize investment portfolios for maximum risk-adjusted returns.
 
@@ -57,8 +57,8 @@ Portfolio Optimization Project/
 ### **Installation**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/portfolio-optimization.git
-cd portfolio-optimization
+git clone https://github.com/gabrielnguyen2603/Stock-Portfolio-Optimization.git
+cd Stock-Portfolio-Optimization
 
 # Install dependencies
 pip install -r requirements.txt
@@ -216,5 +216,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *This project represents a comprehensive application of quantitative finance principles to real-world portfolio management, suitable for both educational and professional purposes.*
+
 
 
