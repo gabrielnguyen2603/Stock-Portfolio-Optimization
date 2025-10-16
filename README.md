@@ -15,7 +15,7 @@ This project demonstrates advanced quantitative finance skills through a complet
 - **Comprehensive Backtesting** with performance attribution
 - **Monte Carlo Simulation** for risk assessment
 - **Stress Testing** under various market scenarios
-- **Professional Financial Visualizations**
+- **Financial Visualizations**
 
 ---
 
@@ -216,4 +216,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *This project represents a comprehensive application of quantitative finance principles to real-world portfolio management, suitable for both educational and professional purposes.*
+
 
