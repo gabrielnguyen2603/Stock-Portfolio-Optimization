@@ -159,29 +159,6 @@
 | **Best Case** | 92.78% | 75.53% | 82.57% |
 | **Worst Case** | -49.40% | -50.27% | -49.48% |
 
-### **Probability Analysis**
-- **Probability of Loss**: 21.56% (Max Sharpe), 35.42% (Min Vol), 28.91% (Equal Weight)
-- **Probability of >20% Return**: 45.23% (Max Sharpe), 12.34% (Min Vol), 23.67% (Equal Weight)
-- **Probability of >50% Return**: 12.45% (Max Sharpe), 2.34% (Min Vol), 5.67% (Equal Weight)
-
----
-
-## 🧪 **Stress Testing Results**
-
-### **Market Scenario Analysis**
-
-| Scenario | Max Sharpe Impact | Min Volatility Impact | Equal Weight Impact |
-|----------|-------------------|----------------------|-------------------|
-| **Market Crash (-30%)** | -5.61% | -8.23% | -6.45% |
-| **Market Rally (+40%)** | +63.88% | +45.23% | +52.34% |
-| **High Volatility** | +24.34% | +18.45% | +21.23% |
-| **Sector Rotation** | +24.86% | +19.23% | +22.45% |
-
-### **Risk Resilience**
-- **Best Crash Performance**: Maximum Sharpe Portfolio
-- **Best Rally Performance**: Maximum Sharpe Portfolio
-- **Most Stable**: Minimum Volatility Portfolio
-- **Most Responsive**: Maximum Sharpe Portfolio
 
 ---
 
@@ -193,37 +170,7 @@
 |----------|--------------|-------------|-------------------|
 | **Max Sharpe** | 54.60% | 2.62% | -2.62% |
 | **Min Volatility** | 15.60% | 0.75% | -0.75% |
-| **Equal Weight** | 0.00% | 0.00% | 0.00% |
 
-### **Cost-Adjusted Performance**
-- **Max Sharpe (Net)**: 25.61% (vs 28.23% gross)
-- **Min Volatility (Net)**: 11.71% (vs 12.46% gross)
-- **Equal Weight (Net)**: 15.86% (unchanged)
-
----
-
-## 🎯 **Investment Recommendations**
-
-### **For Conservative Investors**
-**Recommended Strategy**: Minimum Volatility Portfolio
-- **Risk Level**: Low
-- **Expected Return**: 12.46%
-- **Suitability**: Capital preservation, retirement planning
-- **Time Horizon**: Long-term (5+ years)
-
-### **For Growth Investors**
-**Recommended Strategy**: Maximum Sharpe Portfolio
-- **Risk Level**: Moderate to High
-- **Expected Return**: 28.23%
-- **Suitability**: Wealth building, aggressive growth
-- **Time Horizon**: Medium to Long-term (3+ years)
-
-### **For Balanced Investors**
-**Recommended Strategy**: Equal Weight Portfolio
-- **Risk Level**: Moderate
-- **Expected Return**: 15.86%
-- **Suitability**: Core portfolio, moderate growth
-- **Time Horizon**: Medium to Long-term (3+ years)
 
 ---
 
@@ -251,20 +198,8 @@
 3. **Attribution**: Return sources and drivers
 4. **Correlation**: Asset relationship changes
 
-### **Review Schedule**
-- **Daily**: Price monitoring and alerts
-- **Monthly**: Performance review and rebalancing
-- **Quarterly**: Comprehensive analysis and optimization
-- **Annually**: Strategy review and updates
-
 ---
 
 *This report provides a comprehensive analysis of portfolio performance and risk characteristics based on 5 years of historical data and advanced quantitative modeling techniques.*
 
----
 
-**Report Prepared by**: [Your Name]  
-**Analysis Date**: [Current Date]  
-**Data Source**: Yahoo Finance  
-**Methodology**: Modern Portfolio Theory, Monte Carlo Simulation, Stress Testing  
-**Classification**: Investment Analysis - Confidential
