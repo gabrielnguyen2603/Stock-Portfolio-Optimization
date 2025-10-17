@@ -125,27 +125,6 @@
 
 ---
 
-## 🔄 **Backtesting Results**
-
-### **Historical Performance (49 Rebalancing Periods)**
-
-| Period | Max Sharpe | Min Volatility | Equal Weight |
-|--------|------------|----------------|--------------|
-| **Q1 2021** | 3.57% | 2.38% | 0.60% |
-| **Q2 2021** | -4.46% | -3.14% | -3.43% |
-| **Q3 2021** | -4.91% | 0.01% | -0.49% |
-| **Q4 2021** | -0.52% | -1.42% | -0.86% |
-| **Q1 2022** | 1.23% | 3.27% | 3.16% |
-| **Q2 2022** | 4.80% | 5.31% | 4.77% |
-
-### **Performance Consistency**
-- **Most Consistent**: Minimum Volatility Portfolio
-- **Highest Volatility**: Maximum Sharpe Portfolio
-- **Best Risk-Adjusted**: Equal Weight Portfolio
-- **Most Stable**: Minimum Volatility Portfolio
-
----
-
 ## 🎲 **Monte Carlo Simulation Results**
 
 ### **10,000 Scenario Analysis**
@@ -201,5 +180,6 @@
 ---
 
 *This report provides a comprehensive analysis of portfolio performance and risk characteristics based on 5 years of historical data and advanced quantitative modeling techniques.*
+
 
 
