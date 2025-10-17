@@ -47,9 +47,6 @@ Stock-Portfolio-Optimization/
 │   ├── features.py                    # Feature engineering
 │   ├── simulate.py                    # Monte Carlo simulation
 │   └── config.py                      # Configuration files
-├── 📁 data/
-│   ├── raw_stock_price.csv            # Raw data file
-│   └── ReadME.md                      # Data directory ReadME
 ├── 📈 requirements.txt                 # Python dependencies
 ├── 📋 README.md                       # This file
 └── 📄 LICENSE                         # Project license
@@ -226,6 +223,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *This project represents a comprehensive application of quantitative finance principles to real-world portfolio management, suitable for both educational and professional purposes.*
+
+--- 
+# ⚠️ Important Note on Data
+
+**This notebook fetches live financial data. The results of your analysis will be different from the original author's.**
+
+The analysis window is set to exactly 5 years *prior to the date you run the code*. For example:
+
+* If you run this on **October 18, 2025**, the data will be from **October 18, 2020 – October 18, 2025**.
+* If you run this on **December 1, 2025**, the data will be from **December 1, 2020 – December 1, 2025**.
+
+Because the dataset changes every day, all calculations, including **annual returns, volatility, Sharpe ratios, and optimal portfolio weights, will change**. This is expected behavior.
 
 
 
