@@ -34,12 +34,12 @@ This comprehensive financial analysis presents a quantitative approach to portfo
 
 ### **Portfolio Strategy Comparison**
 
-| Strategy | Annual Return | Volatility | Sharpe Ratio | Max Drawdown |
-|----------|---------------|------------|--------------|--------------|
-| **Maximum Sharpe** | 28.23% | 17.68% | 1.48 | -45.7% |
-| **Minimum Volatility** | 12.46% | 13.59% | 0.77 | -21.5% |
-| **Equal Weight** | 15.86% | 15.21% | 0.91 | -79.7% |
-| **Market Benchmark** | 15.86% | 15.21% | 0.91 | -79.7% |
+| Strategy | Annual Return | Volatility | Sharpe Ratio | 
+|----------|---------------|------------|--------------|
+| **Maximum Sharpe** | 28.23% | 17.68% | 1.48 | 
+| **Minimum Volatility** | 12.46% | 13.59% | 0.77 | 
+| **Equal Weight** | 15.86% | 15.21% | 0.91 | 
+| **Market Benchmark** | 15.86% | 15.21% | 0.91 | 
 
 ### **Risk-Adjusted Performance**
 - **Best Performing Strategy**: Maximum Sharpe Portfolio
@@ -132,11 +132,11 @@ This comprehensive financial analysis presents a quantitative approach to portfo
 
 ---
 
-## 🎓 **Professional Development Value**
+## 🎓 **Development Value**
 
 ### **Skills Demonstrated**
 - **Quantitative Finance**: Portfolio theory and risk management
-- **Data Science**: Statistical analysis and machine learning applications
+- **Data Science**: Statistical analysis
 - **Financial Modeling**: Backtesting, attribution, and scenario analysis
 - **Programming**: Python development for financial applications
 - **Business Intelligence**: Translating technical analysis into business insights
@@ -169,8 +169,9 @@ This comprehensive financial analysis presents a quantitative approach to portfo
 
 ---
 
-**Prepared by**: [Your Name]  
-**Date**: [Current Date]  
-**Classification**: Confidential - Investment Analysis  
+**Prepared by**: [Gabriel (Hoang) Nguyen]  
+**Date**: [18/10/2025]  
+**Classification**: Investment Analysis - Data Analyst
+
 
 
