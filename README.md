@@ -38,18 +38,22 @@ This project demonstrates advanced quantitative finance skills through a complet
 ```
 Stock-Portfolio-Optimization/
 ├── 📊 Stock Portfolio Optimization.ipynb # Main analysis notebook
-├── 🐍 portfolio optimation/            # Core Python package for modular code
+├── 🐍 portfolio optimation/ # Core Python package
 │   ├── __init__.py
-│   ├── optimizers.py                  # Optimization functions (MVO, etc.)
-│   ├── backtest.py                    # Backtesting framework
-│   ├── data.py                        # Data handling utilities
-│   ├── plots.py                       # Visualization functions
-│   ├── features.py                    # Feature engineering
-│   ├── simulate.py                    # Monte Carlo simulation
-│   └── config.py                      # Configuration files
-├── 📈 requirements.txt                 # Python dependencies
-├── 📋 README.md                       # This file
-└── 📄 LICENSE                         # Project license
+│   ├── backtest.py
+│   ├── config.py
+│   ├── data.py
+│   ├── features.py
+│   ├── optimizers.py
+│   ├── plots.py
+│   └── simulate.py
+├── 📖 Overview/
+│   ├── Executive Summary.md
+│   └── Portfolio Performance Report.md
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 ---
@@ -235,6 +239,7 @@ The analysis window is set to exactly 5 years *prior to the date you run the cod
 * If you run this on **December 1, 2025**, the data will be from **December 1, 2020 – December 1, 2025**.
 
 Because the dataset changes every day, all calculations, including **annual returns, volatility, Sharpe ratios, and optimal portfolio weights, will change**. This is expected behavior.
+
 
 
 
