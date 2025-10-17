@@ -36,13 +36,23 @@ This project demonstrates advanced quantitative finance skills through a complet
 ## 🏗️ **Project Structure**
 
 ```
-Portfolio Optimization Project/
-├── 📊 Stock Portfolio Optimization.ipynb    # Main analysis notebook
-├── 📈 requirements.txt                      # Python dependencies
-├── 📋 README.md                            # This file
-├── 🎯 Executive Summary.md                 # Business-focused summary
-├── 📊 Portfolio Performance Report.md      # Detailed performance analysis
-└── 🛠️ Setup Instructions.md               # Technical setup guide
+Stock-Portfolio-Optimization/
+├── 📊 Stock Portfolio Optimization.ipynb # Main analysis notebook
+├── 🐍 portfolio optimation/            # Core Python package for modular code
+│   ├── __init__.py
+│   ├── optimizers.py                  # Optimization functions (MVO, etc.)
+│   ├── backtest.py                    # Backtesting framework
+│   ├── data.py                        # Data handling utilities
+│   ├── plots.py                       # Visualization functions
+│   ├── features.py                    # Feature engineering
+│   ├── simulate.py                    # Monte Carlo simulation
+│   └── config.py                      # Configuration files
+├── 📁 data/
+│   ├── raw_stock_price.csv            # Raw data file
+│   └── ReadME.md                      # Data directory ReadME
+├── 📈 requirements.txt                 # Python dependencies
+├── 📋 README.md                       # This file
+└── 📄 LICENSE                         # Project license
 ```
 
 ---
@@ -216,6 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *This project represents a comprehensive application of quantitative finance principles to real-world portfolio management, suitable for both educational and professional purposes.*
+
 
 
 
