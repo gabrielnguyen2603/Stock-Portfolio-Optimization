@@ -2,7 +2,7 @@
 
 > **Financial Analysis & Quantitative Portfolio Management**
 
-A comprehensive quantitative analysis of Australian stock markets using modern portfolio theory, risk management techniques, and advanced statistical methods to optimize investment portfolios for maximum risk-adjusted returns.
+A comprehensive quantitative analysis of Australian stock markets using modern portfolio theory, risk management techniques, and statistical methods to optimize investment portfolios for maximum risk-adjusted returns.
 
 ---
 
@@ -171,7 +171,7 @@ jupyter notebook
 
 ## 📈 **Visualization Highlights**
 
-The project includes over 20 professional financial visualizations:
+The project includes over 20 financial visualizations:
 
 - **Risk-Return Scatter Plots**: Portfolio efficiency analysis
 - **Efficient Frontier**: Optimal portfolio combinations
@@ -198,15 +198,18 @@ This project demonstrates proficiency in:
 ## 📞 **Contact & Collaboration**
 
 **Author**: Gabriel (Hoang) Nguyen 
+
 **Email**: gabrielnguyen2603@gmail.com
-**LinkedIn**:
-**GitHub**: 
+
+**LinkedIn**:www.linkedin.com/in/gabrielhoangnguyen
+
+**GitHub**: https://github.com/gabrielnguyen2603
 
 ---
 
 ## 📄 **License**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/gabrielnguyen2603/Stock-Portfolio-Optimization/blob/main/LICENSE)) file for details.
 
 ---
 
@@ -229,16 +232,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *This project represents a comprehensive application of quantitative finance principles to real-world portfolio management, suitable for both educational and professional purposes.*
 
 --- 
-# ⚠️ Important Note on Data
+## ⚠️ Important Note on Data
 
 **This notebook fetches live financial data. The results of your analysis will be different from the original author's.**
 
 The analysis window is set to exactly 5 years *prior to the date you run the code*. For example:
 
-* If you run this on **October 18, 2025**, the data will be from **October 18, 2020 – October 18, 2025**.
-* If you run this on **December 1, 2025**, the data will be from **December 1, 2020 – December 1, 2025**.
+ If you run this on **October 18, 2025**, the data will be from **October 18, 2020 – October 18, 2025**.
+ If you run this on **December 1, 2025**, the data will be from **December 1, 2020 – December 1, 2025**.
 
 Because the dataset changes every day, all calculations, including **annual returns, volatility, Sharpe ratios, and optimal portfolio weights, will change**. This is expected behavior.
+
 
 
 
