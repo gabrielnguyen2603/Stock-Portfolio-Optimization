@@ -186,7 +186,7 @@ The project includes over 20 professional financial visualizations:
 This project demonstrates proficiency in:
 
 - **Quantitative Finance**: Modern portfolio theory and risk management
-- **Data Science**: Statistical analysis and machine learning applications
+- **Data Science**: Statistical analysis 
 - **Financial Modeling**: Backtesting and performance attribution
 - **Risk Management**: VaR, stress testing, and scenario analysis
 - **Python Programming**: Advanced data manipulation and visualization
@@ -226,6 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *This project represents a comprehensive application of quantitative finance principles to real-world portfolio management, suitable for both educational and professional purposes.*
+
 
 
 
