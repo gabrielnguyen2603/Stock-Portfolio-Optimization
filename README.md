@@ -179,18 +179,6 @@ The project includes over 20 financial visualizations:
 - **Monte Carlo Distributions**: Scenario analysis
 - **Drawdown Analysis**: Risk assessment over time
 
----
-
-## **Learning Outcomes**
-
-This project demonstrates proficiency in:
-
-- **Quantitative Finance**: Modern portfolio theory and risk management
-- **Data Science**: Statistical analysis 
-- **Financial Modeling**: Backtesting and performance attribution
-- **Risk Management**: VaR, stress testing, and scenario analysis
-- **Python Programming**: Advanced data manipulation and visualization
-- **Business Intelligence**: Translating technical analysis into business insights
 
 ---
 
