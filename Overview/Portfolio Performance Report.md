@@ -1,6 +1,6 @@
-# 📊 Portfolio Performance Report: Australian Stock Analysis
+# Portfolio Performance Report: Australian Stock Analysis
 
-## 📈 **Executive Dashboard**
+## **Executive Dashboard**
 
 ### **Portfolio Performance Summary (5-Year Analysis)**
 *Data Period: October 2020 - October 2025*
@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 **Strategy Performance Analysis**
+## **Strategy Performance Analysis**
 
 ### **1. Maximum Sharpe Portfolio**
 **Objective**: Maximize risk-adjusted returns
@@ -36,10 +36,10 @@
 - NST.AX: 1.60%
 
 **Performance Highlights**:
-- ✅ Highest absolute returns
-- ✅ Strong risk-adjusted performance
-- ⚠️ Higher volatility than conservative strategies
-- ⚠️ Significant drawdowns during market stress
+- Highest absolute returns
+- Strong risk-adjusted performance
+- Higher volatility than conservative strategies
+- Significant drawdowns during market stress
 
 ### **2. Minimum Volatility Portfolio**
 **Objective**: Minimize portfolio risk
@@ -51,11 +51,11 @@
 - **Risk Level**: Low to Moderate
 
 **Performance Highlights**:
-- ✅ Lowest volatility
-- ✅ Most stable returns
-- ✅ Best drawdown control
-- ⚠️ Lower absolute returns
-- ⚠️ Conservative positioning
+- Lowest volatility
+- Most stable returns
+- Best drawdown control
+- Lower absolute returns
+- Conservative positioning
 
 ### **3. Equal Weight Portfolio**
 **Objective**: Diversified market exposure
@@ -67,15 +67,15 @@
 - **Risk Level**: Moderate
 
 **Performance Highlights**:
-- ✅ Balanced risk-return profile
-- ✅ Simple implementation
-- ✅ Good diversification
-- ⚠️ No optimization benefits
-- ⚠️ Equal exposure to all assets
+- Balanced risk-return profile
+- Simple implementation
+- Good diversification
+- No optimization benefits
+- Equal exposure to all assets
 
 ---
 
-## 📊 **Risk Analysis**
+## **Risk Analysis**
 
 ### **Value at Risk (VaR) Analysis**
 
@@ -101,7 +101,7 @@
 
 ---
 
-## 📈 **Sector Analysis**
+## **Sector Analysis**
 
 ### **Sector Performance Attribution**
 
@@ -125,7 +125,7 @@
 
 ---
 
-## 🎲 **Monte Carlo Simulation Results**
+## **Monte Carlo Simulation Results**
 
 ### **10,000 Scenario Analysis**
 
@@ -141,7 +141,7 @@
 
 ---
 
-## 📊 **Transaction Cost Analysis**
+## **Transaction Cost Analysis**
 
 ### **Rebalancing Costs (0.1% per trade)**
 
@@ -153,23 +153,7 @@
 
 ---
 
-## 📈 **Market Outlook**
-
-### **Positive Factors**
-- **Diversified Exposure**: Multi-sector portfolio reduces concentration risk
-- **Quality Selection**: Focus on established, financially sound companies
-- **Quantitative Approach**: Data-driven decisions reduce emotional bias
-- **Regular Rebalancing**: Systematic approach to portfolio management
-
-### **Risk Considerations**
-- **Market Volatility**: Equity markets subject to short-term fluctuations
-- **Economic Sensitivity**: Portfolio tied to Australian economic conditions
-- **Sector Concentration**: Financials represent significant allocation
-- **Currency Risk**: AUD exposure for international investors
-
----
-
-## 📊 **Performance Monitoring**
+## **Performance Monitoring**
 
 ### **Key Metrics to Track**
 1. **Monthly Returns**: Performance vs. benchmark
