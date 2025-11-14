@@ -1,4 +1,4 @@
-# 📈 Australian Stock Portfolio Optimization Analysis
+# Australian Stock Portfolio Optimization Analysis
 
 > **Financial Analysis & Quantitative Portfolio Management**
 
@@ -6,7 +6,7 @@ A comprehensive quantitative analysis of Australian stock markets using modern p
 
 ---
 
-## 🎯 **Executive Summary**
+## **Executive Summary**
 
 This project demonstrates advanced quantitative finance skills through a complete portfolio optimization framework analyzing 10 major Australian stocks over a 5-year period. The analysis includes:
 
@@ -19,7 +19,7 @@ This project demonstrates advanced quantitative finance skills through a complet
 
 ---
 
-## 📊 **Key Findings**
+## **Key Findings**
 
 ### **Portfolio Performance Highlights**
 - **Maximum Sharpe Portfolio**: 28.23% annual return, 17.68% volatility, 1.48 Sharpe ratio
@@ -33,12 +33,12 @@ This project demonstrates advanced quantitative finance skills through a complet
 
 ---
 
-## 🏗️ **Project Structure**
+## **Project Structure**
 
 ```
 Stock-Portfolio-Optimization/
-├── 📊 Stock Portfolio Optimization.ipynb # Main analysis notebook
-├── 🐍 portfolio optimation/ # Core Python package
+├── Stock Portfolio Optimization.ipynb # Main analysis notebook
+├── portfolio optimation/ # Core Python package
 │   ├── __init__.py
 │   ├── backtest.py
 │   ├── config.py
@@ -47,7 +47,7 @@ Stock-Portfolio-Optimization/
 │   ├── optimizers.py
 │   ├── plots.py
 │   └── simulate.py
-├── 📖 Overview/
+├─ Overview/
 │   ├── Executive Summary.md
 │   └── Portfolio Performance Report.md
 ├── .gitignore
@@ -58,7 +58,7 @@ Stock-Portfolio-Optimization/
 
 ---
 
-## 🚀 **Quick Start**
+## **Quick Start**
 
 ### **Prerequisites**
 - Python 3.8+
@@ -85,7 +85,7 @@ jupyter notebook
 
 ---
 
-## 📈 **Analysis Components**
+## **Analysis Components**
 
 ### **1. Data Collection & Preprocessing**
 - **Source**: Yahoo Finance API
@@ -119,7 +119,7 @@ jupyter notebook
 
 ---
 
-## 🎯 **Business Applications**
+## **Business Applications**
 
 ### **For Individual Investors**
 - **Portfolio Construction**: Evidence-based asset allocation
@@ -138,7 +138,7 @@ jupyter notebook
 
 ---
 
-## 📊 **Key Metrics & KPIs**
+## **Key Metrics & KPIs**
 
 | Metric | Max Sharpe | Min Volatility | Equal Weight |
 |--------|------------|----------------|--------------|
@@ -150,7 +150,7 @@ jupyter notebook
 
 ---
 
-## 🛠️ **Technical Implementation**
+## **Technical Implementation**
 
 ### **Libraries Used**
 - **pandas**: Data manipulation and analysis
@@ -169,7 +169,7 @@ jupyter notebook
 
 ---
 
-## 📈 **Visualization Highlights**
+## **Visualization Highlights**
 
 The project includes over 20 financial visualizations:
 
@@ -182,7 +182,7 @@ The project includes over 20 financial visualizations:
 
 ---
 
-## 🎓 **Learning Outcomes**
+## **Learning Outcomes**
 
 This project demonstrates proficiency in:
 
@@ -195,7 +195,7 @@ This project demonstrates proficiency in:
 
 ---
 
-## 📞 **Contact & Collaboration**
+## **Contact & Collaboration**
 
 **Author**: Gabriel (Hoang) Nguyen 
 
@@ -207,13 +207,13 @@ This project demonstrates proficiency in:
 
 ---
 
-## 📄 **License**
+## **License**
 
 This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/gabrielnguyen2603/Stock-Portfolio-Optimization/blob/main/LICENSE)) file for details.
 
 ---
 
-## 🙏 **Acknowledgments**
+## **Acknowledgments**
 
 - **Yahoo Finance** for providing free financial data
 - **PyPortfolioOpt** community for excellent portfolio optimization tools
@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE]([LICENSE](htt
 
 ---
 
-## 📚 **Further Reading**
+## **Further Reading**
 
 - [Modern Portfolio Theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
 
@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE]([LICENSE](htt
 *This project represents a comprehensive application of quantitative finance principles to real-world portfolio management, suitable for both educational and professional purposes.*
 
 --- 
-## ⚠️ Important Note on Data
+## Important Note on Data
 
 **This notebook fetches live financial data. The results of your analysis will be different from the original author's.**
 
@@ -242,6 +242,7 @@ The analysis window is set to exactly 5 years *prior to the date you run the cod
  If you run this on **December 1, 2025**, the data will be from **December 1, 2020 – December 1, 2025**.
 
 Because the dataset changes every day, all calculations, including **annual returns, volatility, Sharpe ratios, and optimal portfolio weights, will change**. This is expected behavior.
+
 
 
 
