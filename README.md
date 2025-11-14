@@ -15,7 +15,6 @@ This project demonstrates advanced quantitative finance skills through a complet
 - **Comprehensive Backtesting** with performance attribution
 - **Monte Carlo Simulation** for risk assessment
 - **Stress Testing** under various market scenarios
-- **Financial Visualizations**
 
 ---
 
@@ -103,7 +102,7 @@ jupyter notebook
 - **Mean-Variance Optimization**: Modern Portfolio Theory implementation
 - **Risk-Return Trade-offs**: Efficient frontier analysis
 - **Multiple Strategies**: Max Sharpe, Min Volatility, Equal Weight
-- **Constraint Handling**: Real-world portfolio constraints
+- **Constraint Handling**: Portfolio constraints
 
 ### **4. Backtesting Framework**
 - **Historical Performance**: Out-of-sample testing
